@@ -23,20 +23,19 @@ Me, Myself and I
 
 ### Outline of Planned Implementation
 **Personas, User Research, Storyboards**
-*  Who is our target group for this AR, who is the most likely to use it?
+*  Who is our target group for this simulation, who is the most likely to use it?
 *  What do users actually want, what are they looking for? 
-* What’s a scenario where the AR might help the user, what scenario will this type of application be useful?
+* What’s a scenario where this might help the user, what scenario will this type of application be useful?
 
-**Collection of statistics**
-* At this point we determine exactly which statistics we will represent in the app
+**Collection of data**
+* It is crucial to collect the speed at which droplets of different sizes leave the mouth, where they will fall and how long the smaller droplets will linger in the air
 * Where are we targeting (which states, which cities, etc.)
 * What pandemic data sets from this and other pandemics (deaths, positive tests, recovery, etc.)
 
 **Visual Design**
-* Designing how these statistics are going to look like
-* What is the best way to represent them (what color, are they transparent, etc.)
-* How “3D” do we make the representation?
-* What values do we use to make the data sets comparable?
+* Designing of how the droplets are going to be represented, what they will look like when ejected from the mouth, what do they look like hanging in the air, what do they look like when they land on various objects in the scene. 
+* Design of the user interface: how to make it easy for the user to understand their option, to choose between them, to navigate through the proposed "timeline" and to go back and forth between settings
+* Design of the scene: the cafe table, items on the table, the other people in the scene
 **Implementation in Unity**
 * Inputting these statistics into Unity
 * Implementing the visual design
