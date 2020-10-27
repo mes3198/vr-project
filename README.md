@@ -55,6 +55,6 @@ Me, Myself and I
 * Documentation
 * Presentation
 
-![Example1](https://www.meetingsnet.com/sites/meetingsnet.com/files/styles/article_featured_retina/public/augmentedreality.jpeg?itok=b5my43ZQ)
+![Example1](https://blogs.3ds.com/simulia/wp-content/uploads/sites/18/2020/04/TimeAnimation_0042.png)
 
-![Example 2](http://jolamux.com/master/img/ar/dataViz/img-AR-data-final-11.jpg)
+![Example 2](https://i.ytimg.com/vi/md6G2hqrhBE/maxresdefault.jpg)
