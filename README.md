@@ -1,24 +1,24 @@
 # vr-project
 
-### AR Pandemic/Virus Data Visualization
+### Coronavirus VR Simulation: Cover Your Cough
 The Team is Comprised of:
-Milly + Megan
+Me, Myself and I
 ### The Idea/Motivation/Proposed Outcome
-**Idea:** An AR app which displays data sets from the current coronavirus pandemic (deaths, infected, recovered, etc.) with the option to compare/contrast these data sets between each other, between different areas and other projections. This AR app can be used on the users phone to display the data visualizations in their space of choice. 
+**Idea:** A VR Simulation that follows the trajectory of respitatory droplets ejected from sneezing and coughing. The 
 
-**Motivation:** To make an educational tool that informs users about pandemics, both past, future and present. Data visualization at its core allows people to easily digest information that is sometimes abstract and might otherwise take up valuable time to understand. Furthermore, 3D representations of data often give users the chance to comprehend the data in ways that 2D can’t manage. The motivation is to improve comprehension of data sets by creating such a visualization. 
+**Motivation:** The CDC recommends staying 6 feet apart to limit the spread of coronavirus. Why? Current science suggests that the coronavirus spreads through large respiratory droplets that are ejected into the air when we sneeze, cough or even sing/speak loudly. Even though this is common knowledge now, it is sometimes easy to fall back into the routine of standing too close to each other whether in line at the bakery or brainstorming ideas in class. Visual representations make 
 
-**Proposed Outcome:** An AR simulation that displays relevant pandemic statistics in 3D (using one’s phone as the viewpoint) wherein the user can select multiple data sets to compare and contrast in order to get a better comprehension of these data sets. 
+**Proposed Outcome:** An immersive VR experience wherin the Viewer is placed at a cafe table with two VR people. Person A sneezes all over the table. Over the course of 2-3 minutes, the Viewer can follow the trajectory of the droplets as they land all over the cafe table (and it's cups, food and other accoutrements) as well as Person B sitting across that table. It's pretty gross admittedly, but it will hit home the WHY of why we have to keep our distance. 
 
 
 ### Interaction Techniques
-**Different viewpoints:** one way in which the user can interact with the data sets is to see them from different angles and at different proportions. Enlarging part of the data set will make small differences easier to see, thus increasing comprehension of the data set. Another interaction: is the user has the ability to physically walk around the AR projection, they’ll be able to see it from different angles and focus on parts of the data set they might have missed
+**Set the scene** The VR user has the opportunity to change up the scene on the table. Any object on the table can be moved closer or farther from Person A (the sneezer.)
 
-**Different data set:** One interaction integral to data comparison is getting to select different data sets to compare/contrast. One example of different selections would be their individual state and area from which they can see data points. This will especially be of interest to users who have a particular concern over an area. Another example is that they can choose between deaths, positive results and recovered patients, which have been dominant statistics of concern for many individuals. Another option is allowing users to see statistics from previous pandemics. This type of visualization will allow users to make comparisons between this current situation and other situations, and allow trends to become visible more easily.
+**Sneeze or cough? Mask or no mask?** The user will have 4 options: what is the respiratory droplet trajectory from a sneeze or cough? What is the trajectory when Person A has a mask on? How much contamination is caused then? The user will have the opportunity to play with these different settings to enhance the understanging of how important wearing a mask is.
 
-**Navigation through the data sets**An important interaction is allowing the user to easily navigate through these data sets. This will have to be determined once the data parameters have been set. Perhaps in this scenario, there is a “basic” view and then the user can add/remove different data sets as they wish. 
+**Change the timeline**Once an option is selected, the VR user will have the option to speed up or slow down how long it takes for droplets to settle. (Some are larger and will fall more quickly, others are smaller and will take more time to fall.) Instead of waiting several minutes for all droplets to fall to see the final result, the user can skip to the end to see what the final scene looks like 
 
-**Navigation through phone:** Another interaction that needs to be considered is how the user will navigate on their phone to get to the app.
+**Navigation through phone:** 
 
 ### Outline of Planned Implementation
 **Personas, User Research, Storyboards**
