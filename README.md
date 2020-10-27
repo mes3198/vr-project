@@ -36,6 +36,7 @@ Me, Myself and I
 * Designing of how the droplets are going to be represented, what they will look like when ejected from the mouth, what do they look like hanging in the air, what do they look like when they land on various objects in the scene. 
 * Design of the user interface: how to make it easy for the user to understand their option, to choose between them, to navigate through the proposed "timeline" and to go back and forth between settings
 * Design of the scene: the cafe table, items on the table, the other people in the scene
+
 **Implementation in Unity**
 * Design the VR scene
 * With collected statistics, recreate the movement of the respiratory droplets in the 4 different representations
