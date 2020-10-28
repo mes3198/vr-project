@@ -17,8 +17,6 @@
 
 **Change the timeline**Once an option is selected, the VR user will have the option to speed up or slow down how long it takes for droplets to settle. (Some are larger and will fall more quickly, others are smaller and will take more time to fall.) Instead of waiting several minutes for all droplets to fall to see the final result, the user can skip to the end to see what the final scene looks like. The user will also have the option to reset the simulation and try a different option. 
 
-**Navigation through phone:** 
-
 ### Outline of Planned Implementation
 **Personas, User Research, Storyboards**
 *  Who is our target group for this simulation, who is the most likely to use it?
