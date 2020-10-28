@@ -1,8 +1,6 @@
 # vr-project
 
 ### Coronavirus VR Simulation: Cover Your Cough
-The Team is Comprised of:
-Me, Myself and I
 
 ### The Idea/Motivation/Proposed Outcome
 **Idea:** A VR Simulation that tracks and marks the trajectory/landing place of respitatory droplets ejected from a sneeze or a cough. In the proposed simulation, the user is seated at a cafe table with two VR people (Person A and Person B) and when Person A sneezes or coughs, the VR user will be able to see how far the respiratory droplets travel across the room, and where they land in the simulated room.
