@@ -12,11 +12,13 @@ Megan Smith + Milly Attree
 
 
 ### Interaction Techniques
-**Set the scene** The VR user has the opportunity to change up the scene on the table. Any object on the table can be moved closer or farther from Person A (the sneezer.) This can add further impact as the viewer will see respiratory droplets land on mugs, handles and other objects that are often touched by others, and see how easily infected droplets can spread the virus. 
+**Menu for pandemics** The VR user has the opportunity to change up the scene on the table. Any object on the table can be moved closer or farther from Person A (the sneezer.) This can add further impact as the viewer will see respiratory droplets land on mugs, handles and other objects that are often touched by others, and see how easily infected droplets can spread the virus. 
 
-**Sneeze or cough? Mask or no mask?** The user will have 4 options: what is the respiratory droplet trajectory from a sneeze or cough? What is the trajectory when Person A has a mask on? How much contamination is caused then? The user will have the opportunity to play with these different settings to enhance the understanging of how important wearing a mask is. 
+**Menu for type of data visualization** The user will have 4 options: what is the respiratory droplet trajectory from a sneeze or cough? What is the trajectory when Person A has a mask on? How much contamination is caused then? The user will have the opportunity to play with these different settings to enhance the understanging of how important wearing a mask is. 
 
-**Change the timeline**Once an option is selected, the VR user will have the option to speed up or slow down how long it takes for droplets to settle. (Some are larger and will fall more quickly, others are smaller and will take more time to fall.) Instead of waiting several minutes for all droplets to fall to see the final result, the user can skip to the end to see what the final scene looks like. The user will also have the option to reset the simulation and try a different option. 
+**See different angles through phone**Once an option is selected, the VR user will have the option to speed up or slow down how long it takes for droplets to settle. (Some are larger and will fall more quickly, others are smaller and will take more time to fall.) Instead of waiting several minutes for all droplets to fall to see the final result, the user can skip to the end to see what the final scene looks like. The user will also have the option to reset the simulation and try a different option. 
+
+**Germany overview of pandemic (future scope)**
 
 ### Outline of Planned Implementation
 **Personas, User Research, Storyboards**
@@ -54,6 +56,7 @@ Megan Smith + Milly Attree
 **Final delivery**
 * Documentation
 * Presentation
+*
 
 ![Example1](https://blogs.3ds.com/simulia/wp-content/uploads/sites/18/2020/04/TimeAnimation_0042.png)
 
