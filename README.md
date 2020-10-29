@@ -12,13 +12,11 @@ Megan Smith + Milly Attree
 
 
 ### Interaction Techniques
-**Menu for pandemics** The VR user has the opportunity to change up the scene on the table. Any object on the table can be moved closer or farther from Person A (the sneezer.) This can add further impact as the viewer will see respiratory droplets land on mugs, handles and other objects that are often touched by others, and see how easily infected droplets can spread the virus. 
+**Menu for pandemics** The VR user has the opportunity to utilize a menu inside the app. This menu gives the user control over which pandemic data set they can view, which will range from coronavirus, Spanish flu, ebola, MERS, SARS etc. Each of these data sets will include a category for the infected, recovered and death rates from the selected pandemic (along the x axis), how many people fell into the aforementioned three categories (y axis) over a range of months (z axis.)
 
-**Menu for type of data visualization** The user will have 4 options: what is the respiratory droplet trajectory from a sneeze or cough? What is the trajectory when Person A has a mask on? How much contamination is caused then? The user will have the opportunity to play with these different settings to enhance the understanging of how important wearing a mask is. 
+**Menu for type of data visualization** The user will have the option to see the data their chart of choice, such as bar graph, line graph, etc. The user will be able to go back and forth between these option at will to gain more clarity about the numbers.
 
-**See different angles through phone**Once an option is selected, the VR user will have the option to speed up or slow down how long it takes for droplets to settle. (Some are larger and will fall more quickly, others are smaller and will take more time to fall.) Instead of waiting several minutes for all droplets to fall to see the final result, the user can skip to the end to see what the final scene looks like. The user will also have the option to reset the simulation and try a different option. 
-
-**Germany overview of pandemic (future scope)**
+**See different angles through phone** The user will be able to move closer (or zoom in and out) of the data visualization, as well as view the model at different angles. 
 
 ### Outline of Planned Implementation
 **Personas, User Research, Storyboards**
@@ -27,14 +25,15 @@ Megan Smith + Milly Attree
 * What’s a scenario where this might help the user, what scenario will this type of application be useful?
 
 **Collection of data**
-* It is crucial to collect the speed at which droplets of different sizes leave the mouth, where they will fall and how long the smaller droplets will linger in the air
-* Collect data on a "typical" sneeze or cough, and how much of these "typical" ejections are comprised of small, medium or large droplets
-* Collect data on typical airflow in a room
+* Collecting data that is relevant and important to the user
+* Collecting data that makes it easy to draw conclusions about events and extrapolate the relevant information
+* 
 
 **Visual Design**
-* Designing of how the droplets are going to be represented, what they will look like when ejected from the mouth, what do they look like hanging in the air, what do they look like when they land on various objects in the scene. 
-* Design of the user interface: how to make it easy for the user to understand their option, to choose between them, to navigate through the proposed "timeline" and to go back and forth between settings
-* Design of the scene: the cafe table, items on the table, the other people in the scene
+* Design of the chart (colors, width, transparency) keeping in mind what will make it most clear for the user 
+* Design of the navigation menu (making things user-friendly, on-brand)
+* Design something that is not only informative but sharp/modern
+* Design with interaction in mind (bars moving up and down, 
 
 **Implementation in Unity**
 * Design the VR scene
