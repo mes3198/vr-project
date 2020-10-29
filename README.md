@@ -6,9 +6,9 @@ Megan Smith + Milly Attree
 ### The Idea/Motivation/Proposed Outcome
 **Idea:** An AR application which can be downloaded onto the users phone. The phone is pointed at an image (graph, chart, etc.) on a piece of paper, and then the app loads the 3D visualization. The user will be able to point the app at different images to display various data visualizations of varying complexity. 
 
-**Motivation:** Educational tool 
+**Motivation:** Data visualization, at it's core, communicates data sets in a way that viewers are easily able to understand the relationships in the data. For many people, it is easier to understand a bar or line graph than extrapolate meaning from a chart of numbers. This project will display important information relevant to pandemics (current and past), and by doing so will help people identify new relationships in these pandemics, or simply understand pandemic trends and why they occur. The core motivation, then, is not only to create a tool for education but also to advance the speed at which students, researchers and the world in general can read the trends of a pandemic.  
 
-**Proposed Outcome:** An app which allows the user to 
+**Proposed Outcome:** To create a fully-functional educational tool that 
 
 
 ### Interaction Techniques
