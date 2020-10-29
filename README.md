@@ -1,13 +1,14 @@
 # vr-project
 
-### Coronavirus VR Simulation: Cover Your Cough
+### AR Data Visualization Application
+Megan Smith + Milly Attree 
 
 ### The Idea/Motivation/Proposed Outcome
-**Idea:** A VR Simulation that tracks and marks the trajectory/landing place of respitatory droplets ejected from a sneeze or a cough. In the proposed simulation, the user is seated at a cafe table with two VR people (Person A and Person B) and when Person A sneezes or coughs, the VR user will be able to see how far the respiratory droplets travel across the room, and where they land in the simulated room.
+**Idea:** An AR application which can be downloaded onto the users phone. The phone is pointed at an image (graph, chart, etc.) on a piece of paper, and then the app loads the 3D visualization. The user will be able to point the app at different images to display various data visualizations of varying complexity. 
 
-**Motivation:** The CDC recommends staying 6 feet apart to limit the spread of coronavirus. Why? Current science suggests that the coronavirus spreads through large (infected) respiratory droplets that are ejected into the air when we sneeze, cough or even sing/speak loudly. Even though this is common knowledge for many of us, it is sometimes easy to fall back into the routine of standing too close to each other, or continuing to gather with other people despite coughing or feeling ill. Visual representations can make an impact on these behaviors and aid in better comprehension of the concept. It can make it easier for some people to understand the importance of following spacing guidelines, as well as wearing a mouth covering in public or simply not going out when you have a cold or a cough. Since the rate of asymptomatic people is relatively high and the damage is to our most vulnerable populations is untold, it is important for people to understand the consequences and to modify their behavior accordingly. 
+**Motivation:** Educational tool 
 
-**Proposed Outcome:** An immersive VR experience wherin the Viewer is placed in a "familiar" situation (being seated at a cafe with other people.) When Person A sneezes/coughs over the table, the Viewer can follow the trajectory of the droplets as they land all over the cafe table (and it's cups, food and other items) as well as Person B sitting across that table. The final landing place of the droplets will be highlighted. It's pretty gross admittedly, but the ultimate outcome is that this an educational tool where people can see WHY the current health guidelines are in place, and why they are so important to continue following. 
+**Proposed Outcome:** An app which allows the user to 
 
 
 ### Interaction Techniques
