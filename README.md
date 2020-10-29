@@ -8,7 +8,7 @@ Megan Smith + Milly Attree
 
 **Motivation:** Data visualization, at it's core, communicates data sets in a way that viewers are easily able to understand the relationships in the data. For many people, it is easier to understand a bar or line graph than extrapolate meaning from a chart of numbers. This project will display important information relevant to pandemics (current and past), and by doing so will help people identify new relationships in these pandemics, or simply understand pandemic trends and why they occur. The core motivation, then, is not only to create a tool for education but also to advance the speed at which students, researchers and the world in general can read the trends of a pandemic.  
 
-**Proposed Outcome:** To create a fully-functional educational tool that 
+**Proposed Outcome:** To create a fully-functional educational tool with a minimum of 4 different graphs that users can compare against. 
 
 
 ### Interaction Techniques
