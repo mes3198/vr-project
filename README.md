@@ -57,6 +57,6 @@ Megan Smith + Milly Attree
 * Presentation
 *
 
-![Example1](https://blogs.3ds.com/simulia/wp-content/uploads/sites/18/2020/04/TimeAnimation_0042.png)
+![Example1](https://i.ytimg.com/vi/9WC4oSP_OCE/hqdefault.jpg)
 
-![Example 2](https://i.ytimg.com/vi/md6G2hqrhBE/maxresdefault.jpg)
+![Example 2](https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcT2ILbw6kYYVYugyADr1x03ELB-j9eofoE9ww&usqp=CAU)
