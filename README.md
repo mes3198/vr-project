@@ -8,7 +8,7 @@ Megan Smith + Milly Attree
 
 **Motivation:** Data visualization, at it's core, communicates data sets in a way that viewers are easily able to understand the relationships in the data. For many people, it is easier to understand a bar or line graph than extrapolate meaning from a chart of numbers. This project will display important information relevant to pandemics (current and past), and by doing so will help people identify new relationships in these pandemics, or simply understand pandemic trends and why they occur. The core motivation, then, is not only to create a tool for education but also to advance the speed at which students, researchers and the world in general can read the trends of a pandemic.  
 
-**Proposed Outcome:** To create a fully-functional educational tool with a minimum of 4 different graphs that users can compare against. 
+**Proposed Outcome:** To create a fully-functional educational tool with a minimum of 4 different graphs that allow for compare/contrast evaluations. A visually appealing, user-friendly application that allows greater comprehension of pandemeics, past and present.  
 
 
 ### Interaction Techniques
@@ -36,11 +36,11 @@ Megan Smith + Milly Attree
 * Design with interaction in mind (bars moving up and down, 
 
 **Implementation in Unity**
-* Design the VR scene
-* With collected statistics, recreate the movement of the respiratory droplets in the 4 different representations
-* Create a fuction where the respiratory droplets leave a "mark" or "splatter" so the Viewer can see the result of the ejection
-* Allow for these drops and splatter to hit objects (that may have been moved by the viewer
-* Create navigation for the user to go back and forth through options and timeleines (pressing buttons, swiping)
+* Designing the graphs with relevant in data in Unity
+* Creating navigable menu
+* Creating a function that allows the application to recognize the image it's being pointed at, then to load the relevant graph
+* Creating a camera view that allows the user to walk around and view the graphs at different angles
+* Downloading the AR app to a phone (or otherwise using the HoloLens)
 
 **Testing**
 * What does the user like/dislike?
