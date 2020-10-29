@@ -4,6 +4,8 @@
 
 ### Personas
 
+![The Scientist](file:///Users/megansmith/Documents/THI/Augmented%20Reality/User%20Personas/user-persona-scientist.jpg)
+
 ### User Stories
 
 ### Storyboards
