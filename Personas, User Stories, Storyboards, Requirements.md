@@ -3,12 +3,14 @@
 ### AR Data Visualization Application
 
 ### Personas
-
-![The Scientist](file:///Users/megansmith/Documents/THI/Augmented%20Reality/User%20Personas/user-persona-scientist.jpg)
+Researcher
+Student
 
 ### User Stories
+Are in Peronas 
 
 ### Storyboards
+Both personas
 
 ### Requirements
 Downloading an AR app that will work on phones
