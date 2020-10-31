@@ -4,7 +4,7 @@
 Megan Smith + Milly Attree 
 
 ### The Idea/Motivation/Proposed Outcome
-**Idea:** An AR application which can be downloaded onto the users phone. The phone is pointed at an image (graph, chart, etc.) on a piece of paper, and then the app loads the 3D visualization. The user will be able to point the app at different images to display various data visualizations of varying complexity. 
+**Idea:** An AR application which can be downloaded onto the users phone. The phone is pointed at an image (graph, chart, etc.) on a piece of paper, and then the app loads the 3D visualization. The user will be able to point the app at different images to display various data visualizations of varying complexity, and choose menu items in order to display the data set in different graph types.
 
 **Motivation:** Data visualization, at it's core, communicates data sets in a way that viewers are easily able to understand the relationships in the data. For many people, it is easier to understand a bar or line graph than extrapolate meaning from a chart of numbers. This project will display important information relevant to pandemics (current and past), and by doing so will help people identify new relationships in these pandemics, or simply understand pandemic trends and why they occur. The core motivation, then, is not only to create a tool for education but also to advance the speed at which students, researchers and the world in general can read the trends of a pandemic.  
 
@@ -18,6 +18,8 @@ Megan Smith + Milly Attree
 
 **See different angles through phone** The user will be able to move closer (or zoom in and out) of the data visualization, as well as view the model at different angles. 
 
+**Potential Future Scope Items** The user could get more information about a data point by pointing to a dot or tap on it on the smartphone screen.
+
 ### Outline of Planned Implementation
 **Personas, User Research, Storyboards**
 *  Who is our target group for this simulation, who is the most likely to use it?
@@ -27,7 +29,7 @@ Megan Smith + Milly Attree
 **Collection of data**
 * Collecting data that is relevant and important to the user
 * Collecting data that makes it easy to draw conclusions about events and extrapolate the relevant information
-* 
+* Collecting data that is able to be compared
 
 **Visual Design**
 * Design of the chart (colors, width, transparency) keeping in mind what will make it most clear for the user 
