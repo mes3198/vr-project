@@ -4,6 +4,7 @@
 
 ### Personas
 Researcher
+![milly_research_profession]()
 Student
 
 ### User Stories
