@@ -4,7 +4,7 @@
 
 ### Personas
 Researcher
-![milly_research_profession]()
+![milly_research_profession](https://github.com/mes3198/vr-project/blob/main/img/Stefan_Weise.png)
 Student
 
 ### User Stories
