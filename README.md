@@ -1,7 +1,7 @@
 # vr-project
 
 ### AR Data Visualization Application
-Megan Smith + Milly Attree 
+Megan Smith + Milly Attree
 
 ### The Idea/Motivation/Proposed Outcome
 **Idea:** An AR application which can be downloaded onto the users phone. The phone is pointed at an image (graph, chart, etc.) on a piece of paper, and then the app loads the 3D visualization. The user will be able to point the app at different images to display various data visualizations of varying complexity, and choose menu items in order to display the data set in different graph types.
@@ -16,7 +16,7 @@ Megan Smith + Milly Attree
 
 **Menu for type of data visualization** The user will have the option to see the data their chart of choice, such as bar graph, line graph, etc. The user will be able to go back and forth between these option at will to gain more clarity about the numbers.
 
-**See different angles through phone** The user will be able to move closer (or zoom in and out) of the data visualization, as well as view the model at different angles. 
+**See different angles through phone** The user will be able to move closer (or zoom in and out) of the data visualization, as well as view the model at different angles.
 
 **Potential Future Scope Items** The user could get more information about a data point by pointing to a dot or tap on it on the smartphone screen.
 
@@ -30,12 +30,14 @@ Megan Smith + Milly Attree
 * Collecting data that is relevant and important to the user
 * Collecting data that makes it easy to draw conclusions about events and extrapolate the relevant information
 * Collecting data that is able to be compared
+* Collecting data that is able to be compared
+* Collecting data that is able to be compared
 
 **Visual Design**
-* Design of the chart (colors, width, transparency) keeping in mind what will make it most clear for the user 
+* Design of the chart (colors, width, transparency) keeping in mind what will make it most clear for the user
 * Design of the navigation menu (making things user-friendly, on-brand)
 * Design something that is not only informative but sharp/modern
-* Design with interaction in mind (bars moving up and down, 
+* Design with interaction in mind (bars moving up and down,
 
 **Implementation in Unity**
 * Designing the graphs with relevant in data in Unity
