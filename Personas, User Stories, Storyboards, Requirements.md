@@ -14,6 +14,9 @@ Researcher
 ![milly_user_story_researcher](https://github.com/mes3198/vr-project/blob/main/img/Stefan_weise_User_Story.png)
 
 ### Storyboards
+Researcher
+
+Student
 ![megan_storyboard](https://github.com/mes3198/vr-project/blob/main/img/UserStory_student_green.jpg)
 
 ### Requirements
