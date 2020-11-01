@@ -30,8 +30,7 @@ Megan Smith + Milly Attree
 * Collecting data that is relevant and important to the user
 * Collecting data that makes it easy to draw conclusions about events and extrapolate the relevant information
 * Collecting data that is able to be compared
-* Collecting data that is able to be compared
-* Collecting data that is able to be compared
+* Data needs to be something that can be represented across a wide variety of graphs
 
 **Visual Design**
 * Design of the chart (colors, width, transparency) keeping in mind what will make it most clear for the user
