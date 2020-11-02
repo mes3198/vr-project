@@ -21,10 +21,9 @@ Student
 
 ### Requirements
 Functional Requirements
-* The user will have the ability to use their mobile phone to load a 3D version of a 2D graph on paper (or other material.) This will be done by facing and focusing on the graph for a short length of time. (Ideally only a few seconds.) A pop-up will appear in front of the user, confirming they would like to load the graph. The user will be able to confirm by using hand geometry to click on the option (yes or no.) If no, the operation will cancel. If yes, the graph will load on top of or in front of the 2D (read-world) print-out of the graph.
-* The user will be able to switch between different pandemics (SARS-COV-2, Hong Kong Flu, Swine Flu) on a menu. The menu will always be in view, and to select the menu option, the user will be able to push the button. The graph for the selected menu will then pop-up.
-The user will have access to another menu. After the user has selected their preferred pandemic data set, they will have the option to choose which way they would like the data set presented. The options will be a bar graph, line graph, bubble graph and pie chart. The way in which the user can select their preferred data visualization will be the same as the pandemic menu (clicking on the menu.)
-* The user will have the option to zoom in or change the angle at which they are viewing the graph by bringing the paper the graph is projected on closer to them, or rotating it.
+* The user will be able to switch between different pandemics (SARS-COV-2, Hong Kong Flu, Swine Flu, Ebola, COVID-19) on a menu. The menu will always be in view, and to select the menu option, the user will be able to push the button and click OK to confirm. The default bar graph for the selected menu will then pop-up.
+The user will have access to another menu (graph-type). After the user has selected their preferred pandemic data set, they will have the option to choose which way they would like the data set presented. The options will be a bar graph, line graph, bubble chart and pie chart. The way in which the user can select their preferred data visualization will be the same as the pandemic menu (clicking on the menu.)
+* In order to understand the data more precisely the user will have the one more color scheme menu option to choose color for the data representation, Furthermore, user can use the functionality of zoom in or change the angle to get complete interpretation of the specific data
 The user will have the option to turn off the AR projection at all times.
 
 Quality Requirements
