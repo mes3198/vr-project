@@ -1,3 +1,4 @@
-# Personas, User Stories, Storyboards, Requirements
+# Visual Designs of Pandemic AR App
 
-### AR Data Visualization Application
+### Choose from different pandemic option
+![milly_research_profession](https://github.com/mes3198/vr-project/blob/main/img/Stefan_Weise.png)
