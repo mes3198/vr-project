@@ -17,7 +17,7 @@ Researcher
 Researcher
 
 Student
-![megan_storyboard](https://github.com/mes3198/vr-project/blob/main/img/UserStory_student_green.jpg)
+![megan_storyboard](https://github.com/mes3198/vr-project/blob/main/img/user_persona_new_interactions.jpg)
 
 ### Requirements
 Functional Requirements
