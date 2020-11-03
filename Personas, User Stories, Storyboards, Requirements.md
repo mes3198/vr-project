@@ -15,6 +15,7 @@ Researcher
 
 ### Storyboards
 Researcher
+![milly_storyboard_researcher](https://github.com/mes3198/vr-project/blob/main/img/Storyboard.png)
 
 Student
 ![megan_storyboard](https://github.com/mes3198/vr-project/blob/main/img/user_persona_new_interactions.jpg)
