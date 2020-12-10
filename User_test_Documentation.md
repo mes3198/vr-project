@@ -31,3 +31,12 @@
 - It is an interesting way to display static information in 3D. I could also imagine that this visualization could find a lot of appeal in other areas. I personally would therefore use this application several times a week.
 - Like I mentioned before: I think it would be really nice, to display information to other topics in the future maybe.
 
+### Feedback from Pacman team
+- It’s great fun. Extending your reading-experience by an AR component feels good. It was delightful to see data displayed with added dimensionality.
+- Exploring. Every new page turn was exciting.
+- That there wasn’t enough of it :D
+- I didn’t expect the extent of flexibility when it came to viewing-angles!
+- Nothing!
+- 5 (very likely)
+- Occasionally (2-3 times/week) / Frequently (1-2 Times a day)
+- In my opinion this idea stands and falls with the quality of data visualisation. It’s important, that the displayed information gives added benefit, AND benefits from the added dimensionality. Maybe readability could me improved by calculating the viewing angle and tilting fonts, so users always see text from the very front. What I noticed while thinking more about it, is that right now the augmented experience overshadows the original experience. On some pages there was text, but it wasn’t readable through the AR view, and (maybe even got overplayed by the AR elements). It could be interesting to explore the degree of importance that the AR element takes within the experience, and if it should be lessened. I really liked the augmented gifs because they allowed for classical reading while adding the novelty of “video on paper”.
