@@ -34,9 +34,35 @@ public class GraphRender : MonoBehaviour
     void Update()
     {
         //Setting the visibility of the children to the current value of the Toggles
-        gameObject.transform.GetChild(0).GetComponent<Renderer>().enabled = BarGraph;
-        gameObject.transform.GetChild(1).GetComponent<Renderer>().enabled = PieChart;
-        gameObject.transform.GetChild(2).GetComponent<Renderer>().enabled = LineGraph;
+        //gameObject.transform.GetChild(0).GetComponent<Renderer>().enabled = BarGraph;
+        //gameObject.transform.GetChild(1).GetComponent<Renderer>().enabled = PieChart;
+        // gameObject.transform.GetChild(2).GetComponent<Renderer>().enabled = LineGraph;
+        Debug.Log(BarGraph.ToString() + "," + PieChart.ToString() + "," + LineGraph.ToString());
+
+        if (gameObject.transform.Find("Canvas").GetComponent<Canvas>().enabled && BarGraph)
+        {
+            gameObject.transform.GetChild(0).GetComponent<Renderer>().enabled = true;
+        }
+        else
+        {
+            gameObject.transform.GetChild(0).GetComponent<Renderer>().enabled = false;
+        }
+        if (gameObject.transform.Find("Canvas").GetComponent<Canvas>().enabled && PieChart)
+        {
+            gameObject.transform.GetChild(1).GetComponent<Renderer>().enabled = true;
+        }
+        else
+        {
+            gameObject.transform.GetChild(1).GetComponent<Renderer>().enabled = false;
+        }
+        if (gameObject.transform.Find("Canvas").GetComponent<Canvas>().enabled && LineGraph)
+        {
+            gameObject.transform.GetChild(2).GetComponent<Renderer>().enabled = true;
+        }
+        else
+        {
+            gameObject.transform.GetChild(2).GetComponent<Renderer>().enabled = false;
+        }
     }
 
     //Saves the state of the Toggles at the moment of clicking on the Filter button
