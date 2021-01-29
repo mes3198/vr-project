@@ -7697,7 +7697,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: "\u2191   Rotate 45\xB0 Up"
+  m_Text: "\u2191   Rotate 10\xB0 Up"
 --- !u!222 &888671750
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -15716,7 +15716,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: " Rotate 45\xB0 Right  \u2192"
+  m_Text: " Rotate 10\xB0 Right  \u2192"
 --- !u!222 &1616404711
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -16794,7 +16794,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: "\u2193  Rotate 45\xB0 Down"
+  m_Text: "\u2193  Rotate 10\xB0 Down"
 --- !u!222 &1737405990
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -19351,7 +19351,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: "\u2190  Rotate 45\xB0 Left"
+  m_Text: "\u2190  Rotate 10\xB0 Left"
 --- !u!222 &2058680067
 CanvasRenderer:
   m_ObjectHideFlags: 0
