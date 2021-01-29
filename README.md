@@ -1,3 +1,5 @@
+Please Refer to Wiki for Final Documentation
+
 # vr-project
 
 ### AR Data Visualization Application
@@ -58,7 +60,7 @@ Megan Smith + Milly Attree
 **Final delivery**
 * Documentation
 * Presentation
-*
+
 
 ![Example1](https://i.ytimg.com/vi/9WC4oSP_OCE/hqdefault.jpg)
 
